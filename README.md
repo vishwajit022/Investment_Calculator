@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Investment Calculator</title>
+ 
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #f7f7f7; padding: 20px;">
 
